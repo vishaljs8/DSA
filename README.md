@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vishaljs8/DSA/tree/master/0229-majority-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishaljs8/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vishaljs8/DSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishaljs8/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishaljs8/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishaljs8/DSA/tree/master/0229-majority-element-ii) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vishaljs8/DSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishaljs8/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vishaljs8/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vishaljs8/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vishaljs8/DSA/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishaljs8/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vishaljs8/DSA/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishaljs8/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
