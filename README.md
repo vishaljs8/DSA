@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishaljs8/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vishaljs8/DSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/vishaljs8/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/vishaljs8/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3193-count-the-number-of-inversions](https://github.com/vishaljs8/DSA/tree/master/3193-count-the-number-of-inversions) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vishaljs8/DSA/tree/master/0229-majority-element-ii) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vishaljs8/DSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/vishaljs8/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/vishaljs8/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
