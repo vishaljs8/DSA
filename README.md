@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vishaljs8/DSA/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishaljs8/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishaljs8/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vishaljs8/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishaljs8/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vishaljs8/DSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/vishaljs8/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishaljs8/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishaljs8/DSA/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishaljs8/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vishaljs8/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishaljs8/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vishaljs8/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vishaljs8/DSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Binary Search
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vishaljs8/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishaljs8/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vishaljs8/DSA/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vishaljs8/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -154,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishaljs8/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vishaljs8/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vishaljs8/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
