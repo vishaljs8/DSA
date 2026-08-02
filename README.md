@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishaljs8/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vishaljs8/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vishaljs8/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishaljs8/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vishaljs8/DSA/tree/master/0031-next-permutation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishaljs8/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vishaljs8/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishaljs8/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vishaljs8/DSA/tree/master/0031-next-permutation) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishaljs8/DSA/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vishaljs8/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
